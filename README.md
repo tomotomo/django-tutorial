@@ -23,6 +23,8 @@
    ```
 
 4. 設定ファイルをコピーします：
+   ※PythonAnywhereを使うために以下の設定は削除しています
+
    ```bash
    cp mysite/settings.dist.py mysite/settings.py
    ```
